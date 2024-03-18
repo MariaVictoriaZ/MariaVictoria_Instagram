@@ -1,0 +1,38 @@
+body{
+    background: rgb(181, 181, 247);
+    margin: 0;
+}
+header{
+    text-align:center ;
+    background: rgb(225, 215, 247);
+    padding: 10px 0px 10px 0px;
+}
+header h1{
+    margin: 0;
+    margin-right: 215px;
+}
+.Post{
+    background: white;
+    width: 549px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.Part1{
+    display: flex;
+}
+.Part1 strong{
+    padding-right:400px;
+    padding-left: 15px;
+}
+.Part1 p:last-child{
+    color: gray;
+    padding-right: 10px;
+    margin-left: auto;
+}
+img{
+    width: 100%;
+}
+.Part3 p{
+    padding: 0px 15px 10px 15px;
+}
